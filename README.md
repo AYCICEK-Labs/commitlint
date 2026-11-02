@@ -16,7 +16,7 @@ The commit message rules of AYÇİÇEK Labs, for [commitlint](https://commitlint
 ## Use it in a Node project
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/AYCICEK-Labs/commitlint/main/commitlint.config.js -o commitlint.config.js
+curl -fsSL https://raw.githubusercontent.com/AYCICEK-Labs/commitlint/main/commitlint.config.mjs -o commitlint.config.mjs
 npm install --save-dev @commitlint/cli @commitlint/config-conventional
 ```
 
